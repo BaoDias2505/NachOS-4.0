@@ -2,7 +2,7 @@
 //      Data structures to manage a hash table to relate arbitrary
 //	keys to arbitrary values. A hash table allows efficient lookup
 //	for the value given the key.
-//
+// hêloo
 //	I've only tested this implementation when both the key and the
 //	value are primitive types (ints or pointers).  There is no 
 //	guarantee that it will work in general.  In particular, it
